@@ -21,5 +21,11 @@
     <ClCompile Include="704_二分查找.cpp">
       <Filter>源文件\数组</Filter>
     </ClCompile>
+    <ClCompile Include="27_移除元素.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
+    <ClCompile Include="977_有序数组的平方.cpp">
+      <Filter>源文件\数组</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
