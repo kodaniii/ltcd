@@ -127,8 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="203_移除链表元素.cpp" />
+    <ClCompile Include="209_长度最小的子数组.cpp" />
     <ClCompile Include="27_移除元素.cpp" />
+    <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
+    <ClCompile Include="707_设计链表.cpp" />
     <ClCompile Include="977_有序数组的平方.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
