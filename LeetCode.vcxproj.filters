@@ -42,5 +42,11 @@
     <ClCompile Include="707_设计链表.cpp">
       <Filter>源文件\链表</Filter>
     </ClCompile>
+    <ClCompile Include="206_反转链表.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="24_两两交换链表中的节点.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
