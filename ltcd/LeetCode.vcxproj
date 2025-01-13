@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="142_环形链表II.cpp" />
+    <ClCompile Include="19_删除链表的倒数第N个节点.cpp" />
     <ClCompile Include="203_移除链表元素.cpp" />
     <ClCompile Include="206_反转链表.cpp" />
     <ClCompile Include="209_长度最小的子数组.cpp" />

@@ -48,5 +48,11 @@
     <ClCompile Include="24_两两交换链表中的节点.cpp">
       <Filter>源文件\链表</Filter>
     </ClCompile>
+    <ClCompile Include="19_删除链表的倒数第N个节点.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
+    <ClCompile Include="142_环形链表II.cpp">
+      <Filter>源文件\链表</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
