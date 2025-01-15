@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="142_环形链表II.cpp" />
     <ClCompile Include="19_删除链表的倒数第N个节点.cpp" />
+    <ClCompile Include="1_两数之和.cpp" />
     <ClCompile Include="203_移除链表元素.cpp" />
     <ClCompile Include="206_反转链表.cpp" />
     <ClCompile Include="209_长度最小的子数组.cpp" />
@@ -136,6 +137,7 @@
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
     <ClCompile Include="27_移除元素.cpp" />
     <ClCompile Include="349_两个数组的交集.cpp" />
+    <ClCompile Include="454_两数相加II.cpp" />
     <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="707_设计链表.cpp" />

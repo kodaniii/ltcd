@@ -19,6 +19,9 @@
     <Filter Include="源文件\链表">
       <UniqueIdentifier>{546630aa-7cd3-4d1a-88d9-5e291c6e9c30}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\哈希表">
+      <UniqueIdentifier>{6df06be9-b4f9-4e95-9292-177c3b3253e7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="704_二分查找.cpp">
@@ -55,10 +58,16 @@
       <Filter>源文件\链表</Filter>
     </ClCompile>
     <ClCompile Include="242_有效的字母异位词.cpp">
-      <Filter>源文件\链表</Filter>
+      <Filter>源文件\哈希表</Filter>
     </ClCompile>
     <ClCompile Include="349_两个数组的交集.cpp">
-      <Filter>源文件\链表</Filter>
+      <Filter>源文件\哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="1_两数之和.cpp">
+      <Filter>源文件\哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="454_两数相加II.cpp">
+      <Filter>源文件\哈希表</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
