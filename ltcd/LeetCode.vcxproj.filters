@@ -69,5 +69,11 @@
     <ClCompile Include="454_两数相加II.cpp">
       <Filter>源文件\哈希表</Filter>
     </ClCompile>
+    <ClCompile Include="15_三数之和.cpp">
+      <Filter>源文件\哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="18_四数之和.cpp">
+      <Filter>源文件\哈希表</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

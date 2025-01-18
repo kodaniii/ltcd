@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="142_环形链表II.cpp" />
+    <ClCompile Include="15_三数之和.cpp" />
+    <ClCompile Include="18_四数之和.cpp" />
     <ClCompile Include="19_删除链表的倒数第N个节点.cpp" />
     <ClCompile Include="1_两数之和.cpp" />
     <ClCompile Include="203_移除链表元素.cpp" />
