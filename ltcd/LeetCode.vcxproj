@@ -138,8 +138,10 @@
     <ClCompile Include="242_有效的字母异位词.cpp" />
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
     <ClCompile Include="27_移除元素.cpp" />
+    <ClCompile Include="344_反转字符串.cpp" />
     <ClCompile Include="349_两个数组的交集.cpp" />
     <ClCompile Include="454_两数相加II.cpp" />
+    <ClCompile Include="541_反转字符串II.cpp" />
     <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="707_设计链表.cpp" />
