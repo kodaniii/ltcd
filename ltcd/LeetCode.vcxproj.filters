@@ -84,5 +84,8 @@
     <ClCompile Include="541_反转字符串II.cpp">
       <Filter>源文件\字符串</Filter>
     </ClCompile>
+    <ClCompile Include="151_反转字符串中的单词.cpp">
+      <Filter>源文件\哈希表</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
