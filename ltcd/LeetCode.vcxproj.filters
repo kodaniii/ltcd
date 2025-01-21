@@ -87,5 +87,8 @@
     <ClCompile Include="151_反转字符串中的单词.cpp">
       <Filter>源文件\哈希表</Filter>
     </ClCompile>
+    <ClCompile Include="459_重复的子字符串.cpp">
+      <Filter>源文件\哈希表</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
