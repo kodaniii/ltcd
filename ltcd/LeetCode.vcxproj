@@ -136,6 +136,8 @@
     <ClCompile Include="203_移除链表元素.cpp" />
     <ClCompile Include="206_反转链表.cpp" />
     <ClCompile Include="209_长度最小的子数组.cpp" />
+    <ClCompile Include="225_用队列实现栈.cpp" />
+    <ClCompile Include="232_用栈实现队列.cpp" />
     <ClCompile Include="242_有效的字母异位词.cpp" />
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
     <ClCompile Include="27_移除元素.cpp" />

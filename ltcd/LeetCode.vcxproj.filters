@@ -25,6 +25,9 @@
     <Filter Include="源文件\字符串">
       <UniqueIdentifier>{6793151d-2b89-4646-90f8-275aed031ac2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\栈">
+      <UniqueIdentifier>{15c07823-a6ff-42ca-8372-48ef2a3fb08a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="704_二分查找.cpp">
@@ -89,6 +92,12 @@
     </ClCompile>
     <ClCompile Include="459_重复的子字符串.cpp">
       <Filter>源文件\哈希表</Filter>
+    </ClCompile>
+    <ClCompile Include="232_用栈实现队列.cpp">
+      <Filter>源文件\栈</Filter>
+    </ClCompile>
+    <ClCompile Include="225_用队列实现栈.cpp">
+      <Filter>源文件\栈</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
