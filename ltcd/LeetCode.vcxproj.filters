@@ -99,5 +99,11 @@
     <ClCompile Include="225_用队列实现栈.cpp">
       <Filter>源文件\栈</Filter>
     </ClCompile>
+    <ClCompile Include="20_有效的括号.cpp">
+      <Filter>源文件\栈</Filter>
+    </ClCompile>
+    <ClCompile Include="1047_删除字符串中的所有相邻重复项.cpp">
+      <Filter>源文件\栈</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1047_删除字符串中的所有相邻重复项.cpp" />
     <ClCompile Include="142_环形链表II.cpp" />
     <ClCompile Include="151_反转字符串中的单词.cpp" />
     <ClCompile Include="15_三数之和.cpp" />
@@ -136,6 +137,7 @@
     <ClCompile Include="203_移除链表元素.cpp" />
     <ClCompile Include="206_反转链表.cpp" />
     <ClCompile Include="209_长度最小的子数组.cpp" />
+    <ClCompile Include="20_有效的括号.cpp" />
     <ClCompile Include="225_用队列实现栈.cpp" />
     <ClCompile Include="232_用栈实现队列.cpp" />
     <ClCompile Include="242_有效的字母异位词.cpp" />
