@@ -130,7 +130,9 @@
     <ClCompile Include="1047_删除字符串中的所有相邻重复项.cpp" />
     <ClCompile Include="142_环形链表II.cpp" />
     <ClCompile Include="144_二叉树的前序遍历.cpp" />
+    <ClCompile Include="144_二叉树的前序遍历（迭代）.cpp" />
     <ClCompile Include="145_二叉树的后序遍历.cpp" />
+    <ClCompile Include="145_二叉树的后序遍历（迭代）.cpp" />
     <ClCompile Include="150_逆波兰表达式求值.cpp" />
     <ClCompile Include="151_反转字符串中的单词.cpp" />
     <ClCompile Include="15_三数之和.cpp" />
@@ -157,6 +159,7 @@
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="707_设计链表.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
+    <ClCompile Include="94_二叉树的中序遍历（迭代）.cpp" />
     <ClCompile Include="977_有序数组的平方.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
