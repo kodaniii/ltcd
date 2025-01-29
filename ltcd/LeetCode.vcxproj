@@ -131,6 +131,7 @@
     <ClCompile Include="102_二叉树的层序遍历.cpp" />
     <ClCompile Include="1047_删除字符串中的所有相邻重复项.cpp" />
     <ClCompile Include="104_二叉树的最大深度.cpp" />
+    <ClCompile Include="111_二叉树的最小深度.cpp" />
     <ClCompile Include="142_环形链表II.cpp" />
     <ClCompile Include="144_二叉树的前序遍历.cpp" />
     <ClCompile Include="144_二叉树的前序遍历（迭代）.cpp" />
@@ -146,6 +147,7 @@
     <ClCompile Include="206_反转链表.cpp" />
     <ClCompile Include="209_长度最小的子数组.cpp" />
     <ClCompile Include="20_有效的括号.cpp" />
+    <ClCompile Include="222_完全二叉树的节点个数.cpp" />
     <ClCompile Include="225_用队列实现栈.cpp" />
     <ClCompile Include="226_翻转二叉树.cpp" />
     <ClCompile Include="232_用栈实现队列.cpp" />
