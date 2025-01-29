@@ -127,8 +127,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="101_对称二叉树.cpp" />
     <ClCompile Include="102_二叉树的层序遍历.cpp" />
     <ClCompile Include="1047_删除字符串中的所有相邻重复项.cpp" />
+    <ClCompile Include="104_二叉树的最大深度.cpp" />
     <ClCompile Include="142_环形链表II.cpp" />
     <ClCompile Include="144_二叉树的前序遍历.cpp" />
     <ClCompile Include="144_二叉树的前序遍历（迭代）.cpp" />
