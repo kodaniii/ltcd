@@ -131,6 +131,7 @@
     <ClCompile Include="102_二叉树的层序遍历.cpp" />
     <ClCompile Include="1047_删除字符串中的所有相邻重复项.cpp" />
     <ClCompile Include="104_二叉树的最大深度.cpp" />
+    <ClCompile Include="110_平衡二叉树.cpp" />
     <ClCompile Include="111_二叉树的最小深度.cpp" />
     <ClCompile Include="142_环形链表II.cpp" />
     <ClCompile Include="144_二叉树的前序遍历.cpp" />
@@ -154,6 +155,7 @@
     <ClCompile Include="239_滑动窗口最大值.cpp" />
     <ClCompile Include="242_有效的字母异位词.cpp" />
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
+    <ClCompile Include="257_二叉树的所有路径.cpp" />
     <ClCompile Include="27_移除元素.cpp" />
     <ClCompile Include="344_反转字符串.cpp" />
     <ClCompile Include="347_前K个高频元素.cpp" />
