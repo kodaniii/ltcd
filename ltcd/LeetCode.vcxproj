@@ -160,8 +160,10 @@
     <ClCompile Include="344_反转字符串.cpp" />
     <ClCompile Include="347_前K个高频元素.cpp" />
     <ClCompile Include="349_两个数组的交集.cpp" />
+    <ClCompile Include="404_左叶子之和.cpp" />
     <ClCompile Include="454_两数相加II.cpp" />
     <ClCompile Include="459_重复的子字符串.cpp" />
+    <ClCompile Include="513_找树左下角的值.cpp" />
     <ClCompile Include="541_反转字符串II.cpp" />
     <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
