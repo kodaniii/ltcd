@@ -165,5 +165,11 @@
     <ClCompile Include="513_找树左下角的值.cpp">
       <Filter>源文件\二叉树</Filter>
     </ClCompile>
+    <ClCompile Include="112_路径总和.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="106_从中序与后序遍历序列构造二叉树.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
