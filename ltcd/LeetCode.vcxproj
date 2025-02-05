@@ -170,11 +170,13 @@
     <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="617_合并二叉树.cpp" />
     <ClCompile Include="654_最大二叉树.cpp" />
+    <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="707_设计链表.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
     <ClCompile Include="94_二叉树的中序遍历（迭代）.cpp" />
     <ClCompile Include="977_有序数组的平方.cpp" />
+    <ClCompile Include="98_验证二叉搜索树.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
