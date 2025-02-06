@@ -165,7 +165,9 @@
     <ClCompile Include="404_左叶子之和.cpp" />
     <ClCompile Include="454_两数相加II.cpp" />
     <ClCompile Include="459_重复的子字符串.cpp" />
+    <ClCompile Include="501_二叉搜索树中的众数.cpp" />
     <ClCompile Include="513_找树左下角的值.cpp" />
+    <ClCompile Include="530_二叉搜索树的最小绝对差.cpp" />
     <ClCompile Include="541_反转字符串II.cpp" />
     <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="617_合并二叉树.cpp" />
@@ -173,6 +175,7 @@
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="707_设计链表.cpp" />
+    <ClCompile Include="783_二叉搜索树节点最小距离.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
     <ClCompile Include="94_二叉树的中序遍历（迭代）.cpp" />
     <ClCompile Include="977_有序数组的平方.cpp" />
