@@ -192,5 +192,11 @@
     <ClCompile Include="501_二叉搜索树中的众数.cpp">
       <Filter>源文件\二叉树</Filter>
     </ClCompile>
+    <ClCompile Include="236_二叉树的最近公共祖先.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="235_二叉搜索树的最近公共祖先.cpp">
+      <Filter>源文件\二叉树</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

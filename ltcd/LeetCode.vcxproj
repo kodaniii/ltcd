@@ -154,6 +154,8 @@
     <ClCompile Include="225_用队列实现栈.cpp" />
     <ClCompile Include="226_翻转二叉树.cpp" />
     <ClCompile Include="232_用栈实现队列.cpp" />
+    <ClCompile Include="235_二叉搜索树的最近公共祖先.cpp" />
+    <ClCompile Include="236_二叉树的最近公共祖先.cpp" />
     <ClCompile Include="239_滑动窗口最大值.cpp" />
     <ClCompile Include="242_有效的字母异位词.cpp" />
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
