@@ -165,6 +165,7 @@
     <ClCompile Include="347_前K个高频元素.cpp" />
     <ClCompile Include="349_两个数组的交集.cpp" />
     <ClCompile Include="404_左叶子之和.cpp" />
+    <ClCompile Include="450_删除二叉搜索树中的节点.cpp" />
     <ClCompile Include="454_两数相加II.cpp" />
     <ClCompile Include="459_重复的子字符串.cpp" />
     <ClCompile Include="501_二叉搜索树中的众数.cpp" />
@@ -175,6 +176,7 @@
     <ClCompile Include="617_合并二叉树.cpp" />
     <ClCompile Include="654_最大二叉树.cpp" />
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
+    <ClCompile Include="701_二叉搜索树中的插入操作.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="707_设计链表.cpp" />
     <ClCompile Include="783_二叉搜索树节点最小距离.cpp" />
