@@ -132,6 +132,7 @@
     <ClCompile Include="1047_删除字符串中的所有相邻重复项.cpp" />
     <ClCompile Include="104_二叉树的最大深度.cpp" />
     <ClCompile Include="106_从中序与后序遍历序列构造二叉树.cpp" />
+    <ClCompile Include="108_将有序数组转换为二叉搜索树.cpp" />
     <ClCompile Include="110_平衡二叉树.cpp" />
     <ClCompile Include="111_二叉树的最小深度.cpp" />
     <ClCompile Include="112_路径总和.cpp" />
@@ -175,6 +176,7 @@
     <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="617_合并二叉树.cpp" />
     <ClCompile Include="654_最大二叉树.cpp" />
+    <ClCompile Include="669_修剪二叉搜索树.cpp" />
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="701_二叉搜索树中的插入操作.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
