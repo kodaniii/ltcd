@@ -172,6 +172,7 @@
     <ClCompile Include="501_二叉搜索树中的众数.cpp" />
     <ClCompile Include="513_找树左下角的值.cpp" />
     <ClCompile Include="530_二叉搜索树的最小绝对差.cpp" />
+    <ClCompile Include="538_把二叉搜索树转换为累加树.cpp" />
     <ClCompile Include="541_反转字符串II.cpp" />
     <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="617_合并二叉树.cpp" />
