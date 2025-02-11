@@ -182,6 +182,7 @@
     <ClCompile Include="701_二叉搜索树中的插入操作.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="707_设计链表.cpp" />
+    <ClCompile Include="77_组合.cpp" />
     <ClCompile Include="783_二叉搜索树节点最小距离.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
     <ClCompile Include="94_二叉树的中序遍历（迭代）.cpp" />

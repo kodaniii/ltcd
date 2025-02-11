@@ -31,6 +31,9 @@
     <Filter Include="源文件\二叉树">
       <UniqueIdentifier>{675251fa-4745-47ad-af09-0cfc10d6bf7c}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\回溯算法">
+      <UniqueIdentifier>{7e903fc3-f10f-498b-864e-fa7a01f64818}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="704_二分查找.cpp">
@@ -212,6 +215,9 @@
     </ClCompile>
     <ClCompile Include="538_把二叉搜索树转换为累加树.cpp">
       <Filter>源文件\二叉树</Filter>
+    </ClCompile>
+    <ClCompile Include="77_组合.cpp">
+      <Filter>源文件\回溯算法</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
