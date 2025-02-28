@@ -222,5 +222,8 @@
     <ClCompile Include="216_组合总和III.cpp">
       <Filter>源文件\回溯算法</Filter>
     </ClCompile>
+    <ClCompile Include="17_电话号码的字母组合.cpp">
+      <Filter>源文件\回溯算法</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
