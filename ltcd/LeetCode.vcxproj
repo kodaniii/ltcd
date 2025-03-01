@@ -167,6 +167,7 @@
     <ClCompile Include="344_反转字符串.cpp" />
     <ClCompile Include="347_前K个高频元素.cpp" />
     <ClCompile Include="349_两个数组的交集.cpp" />
+    <ClCompile Include="39_组合总和.cpp" />
     <ClCompile Include="404_左叶子之和.cpp" />
     <ClCompile Include="450_删除二叉搜索树中的节点.cpp" />
     <ClCompile Include="454_两数相加II.cpp" />
