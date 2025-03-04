@@ -189,6 +189,8 @@
     <ClCompile Include="707_设计链表.cpp" />
     <ClCompile Include="77_组合.cpp" />
     <ClCompile Include="783_二叉搜索树节点最小距离.cpp" />
+    <ClCompile Include="78_子集.cpp" />
+    <ClCompile Include="90_子集II.cpp" />
     <ClCompile Include="93_复原IP地址.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
     <ClCompile Include="94_二叉树的中序遍历（迭代）.cpp" />
