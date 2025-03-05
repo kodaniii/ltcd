@@ -243,5 +243,11 @@
     <ClCompile Include="90_子集II.cpp">
       <Filter>源文件\回溯算法</Filter>
     </ClCompile>
+    <ClCompile Include="491_非递减子序列.cpp">
+      <Filter>源文件\回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="46_全排列.cpp">
+      <Filter>源文件\回溯算法</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
