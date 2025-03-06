@@ -249,5 +249,11 @@
     <ClCompile Include="46_全排列.cpp">
       <Filter>源文件\回溯算法</Filter>
     </ClCompile>
+    <ClCompile Include="47_全排列II.cpp">
+      <Filter>源文件\回溯算法</Filter>
+    </ClCompile>
+    <ClCompile Include="51_N皇后.cpp">
+      <Filter>源文件\回溯算法</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
