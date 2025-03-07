@@ -255,5 +255,8 @@
     <ClCompile Include="51_N皇后.cpp">
       <Filter>源文件\回溯算法</Filter>
     </ClCompile>
+    <ClCompile Include="37_解数独.cpp">
+      <Filter>源文件\回溯算法</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -145,6 +145,7 @@
     <ClCompile Include="150_逆波兰表达式求值.cpp" />
     <ClCompile Include="151_反转字符串中的单词.cpp" />
     <ClCompile Include="15_三数之和.cpp" />
+    <ClCompile Include="37_解数独.cpp" />
     <ClCompile Include="47_全排列II.cpp" />
     <ClCompile Include="17_电话号码的字母组合.cpp" />
     <ClCompile Include="18_四数之和.cpp" />
