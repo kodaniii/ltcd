@@ -136,6 +136,7 @@
     <ClCompile Include="110_平衡二叉树.cpp" />
     <ClCompile Include="111_二叉树的最小深度.cpp" />
     <ClCompile Include="112_路径总和.cpp" />
+    <ClCompile Include="122_买卖股票的最佳时机II.cpp" />
     <ClCompile Include="131_分割回文串.cpp" />
     <ClCompile Include="142_环形链表II.cpp" />
     <ClCompile Include="144_二叉树的前序遍历.cpp" />
@@ -185,6 +186,7 @@
     <ClCompile Include="51_N皇后.cpp" />
     <ClCompile Include="530_二叉搜索树的最小绝对差.cpp" />
     <ClCompile Include="538_把二叉搜索树转换为累加树.cpp" />
+    <ClCompile Include="53_最大子数组和.cpp" />
     <ClCompile Include="541_反转字符串II.cpp" />
     <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="617_合并二叉树.cpp" />

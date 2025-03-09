@@ -267,5 +267,11 @@
     <ClCompile Include="376_摆动序列.cpp">
       <Filter>源文件\贪心</Filter>
     </ClCompile>
+    <ClCompile Include="53_最大子数组和.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="122_买卖股票的最佳时机II.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
