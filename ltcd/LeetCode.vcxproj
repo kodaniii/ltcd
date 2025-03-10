@@ -149,6 +149,7 @@
     <ClCompile Include="376_摆动序列.cpp" />
     <ClCompile Include="37_解数独.cpp" />
     <ClCompile Include="455_分发饼干.cpp" />
+    <ClCompile Include="45_跳跃游戏II.cpp" />
     <ClCompile Include="47_全排列II.cpp" />
     <ClCompile Include="17_电话号码的字母组合.cpp" />
     <ClCompile Include="18_四数之和.cpp" />
@@ -188,6 +189,7 @@
     <ClCompile Include="538_把二叉搜索树转换为累加树.cpp" />
     <ClCompile Include="53_最大子数组和.cpp" />
     <ClCompile Include="541_反转字符串II.cpp" />
+    <ClCompile Include="55_跳跃游戏.cpp" />
     <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="617_合并二叉树.cpp" />
     <ClCompile Include="654_最大二叉树.cpp" />
