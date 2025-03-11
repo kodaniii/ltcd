@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1005_K次取反后最大化的数组和.cpp" />
     <ClCompile Include="101_对称二叉树.cpp" />
     <ClCompile Include="102_二叉树的层序遍历.cpp" />
     <ClCompile Include="1047_删除字符串中的所有相邻重复项.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="112_路径总和.cpp" />
     <ClCompile Include="122_买卖股票的最佳时机II.cpp" />
     <ClCompile Include="131_分割回文串.cpp" />
+    <ClCompile Include="134_加油站.cpp" />
     <ClCompile Include="142_环形链表II.cpp" />
     <ClCompile Include="144_二叉树的前序遍历.cpp" />
     <ClCompile Include="144_二叉树的前序遍历（迭代）.cpp" />
