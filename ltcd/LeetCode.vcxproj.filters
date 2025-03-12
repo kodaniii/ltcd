@@ -285,5 +285,11 @@
     <ClCompile Include="134_加油站.cpp">
       <Filter>源文件\贪心</Filter>
     </ClCompile>
+    <ClCompile Include="135_分发糖果.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="860_柠檬水找零.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

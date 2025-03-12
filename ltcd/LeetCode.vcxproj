@@ -140,6 +140,7 @@
     <ClCompile Include="122_买卖股票的最佳时机II.cpp" />
     <ClCompile Include="131_分割回文串.cpp" />
     <ClCompile Include="134_加油站.cpp" />
+    <ClCompile Include="135_分发糖果.cpp" />
     <ClCompile Include="142_环形链表II.cpp" />
     <ClCompile Include="144_二叉树的前序遍历.cpp" />
     <ClCompile Include="144_二叉树的前序遍历（迭代）.cpp" />
@@ -203,6 +204,7 @@
     <ClCompile Include="77_组合.cpp" />
     <ClCompile Include="783_二叉搜索树节点最小距离.cpp" />
     <ClCompile Include="78_子集.cpp" />
+    <ClCompile Include="860_柠檬水找零.cpp" />
     <ClCompile Include="90_子集II.cpp" />
     <ClCompile Include="93_复原IP地址.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
