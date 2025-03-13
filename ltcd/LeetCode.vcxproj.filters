@@ -291,5 +291,11 @@
     <ClCompile Include="860_柠檬水找零.cpp">
       <Filter>源文件\贪心</Filter>
     </ClCompile>
+    <ClCompile Include="406_根据身高重建队列.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="452_用最少数量的箭引爆气球.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

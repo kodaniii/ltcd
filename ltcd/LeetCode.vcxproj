@@ -151,6 +151,8 @@
     <ClCompile Include="15_三数之和.cpp" />
     <ClCompile Include="376_摆动序列.cpp" />
     <ClCompile Include="37_解数独.cpp" />
+    <ClCompile Include="406_根据身高重建队列.cpp" />
+    <ClCompile Include="452_用最少数量的箭引爆气球.cpp" />
     <ClCompile Include="455_分发饼干.cpp" />
     <ClCompile Include="45_跳跃游戏II.cpp" />
     <ClCompile Include="47_全排列II.cpp" />
