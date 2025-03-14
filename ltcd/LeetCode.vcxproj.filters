@@ -297,5 +297,11 @@
     <ClCompile Include="452_用最少数量的箭引爆气球.cpp">
       <Filter>源文件\贪心</Filter>
     </ClCompile>
+    <ClCompile Include="435_无重叠区间.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="763_划分字母区间.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

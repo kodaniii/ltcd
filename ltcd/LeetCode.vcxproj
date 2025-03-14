@@ -152,6 +152,7 @@
     <ClCompile Include="376_摆动序列.cpp" />
     <ClCompile Include="37_解数独.cpp" />
     <ClCompile Include="406_根据身高重建队列.cpp" />
+    <ClCompile Include="435_无重叠区间.cpp" />
     <ClCompile Include="452_用最少数量的箭引爆气球.cpp" />
     <ClCompile Include="455_分发饼干.cpp" />
     <ClCompile Include="45_跳跃游戏II.cpp" />
@@ -203,6 +204,7 @@
     <ClCompile Include="701_二叉搜索树中的插入操作.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="707_设计链表.cpp" />
+    <ClCompile Include="763_划分字母区间.cpp" />
     <ClCompile Include="77_组合.cpp" />
     <ClCompile Include="783_二叉搜索树节点最小距离.cpp" />
     <ClCompile Include="78_子集.cpp" />
