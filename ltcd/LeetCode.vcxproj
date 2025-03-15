@@ -196,6 +196,7 @@
     <ClCompile Include="53_最大子数组和.cpp" />
     <ClCompile Include="541_反转字符串II.cpp" />
     <ClCompile Include="55_跳跃游戏.cpp" />
+    <ClCompile Include="56_合并区间.cpp" />
     <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="617_合并二叉树.cpp" />
     <ClCompile Include="654_最大二叉树.cpp" />
@@ -204,6 +205,7 @@
     <ClCompile Include="701_二叉搜索树中的插入操作.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="707_设计链表.cpp" />
+    <ClCompile Include="738_单调递增的数字.cpp" />
     <ClCompile Include="763_划分字母区间.cpp" />
     <ClCompile Include="77_组合.cpp" />
     <ClCompile Include="783_二叉搜索树节点最小距离.cpp" />
