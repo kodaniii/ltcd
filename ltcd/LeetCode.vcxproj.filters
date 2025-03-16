@@ -37,6 +37,9 @@
     <Filter Include="源文件\贪心">
       <UniqueIdentifier>{9c295f04-ae31-4ce2-870c-151ff1f56fdd}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\动态规划">
+      <UniqueIdentifier>{7b53c6ff-d764-4866-9612-f7dc6068dfbb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="704_二分查找.cpp">
@@ -307,6 +310,9 @@
       <Filter>源文件\贪心</Filter>
     </ClCompile>
     <ClCompile Include="738_单调递增的数字.cpp">
+      <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="968_监控二叉树.cpp">
       <Filter>源文件\贪心</Filter>
     </ClCompile>
   </ItemGroup>

@@ -215,6 +215,7 @@
     <ClCompile Include="93_复原IP地址.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
     <ClCompile Include="94_二叉树的中序遍历（迭代）.cpp" />
+    <ClCompile Include="968_监控二叉树.cpp" />
     <ClCompile Include="977_有序数组的平方.cpp" />
     <ClCompile Include="98_验证二叉搜索树.cpp" />
   </ItemGroup>
