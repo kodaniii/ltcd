@@ -40,6 +40,9 @@
     <Filter Include="源文件\动态规划">
       <UniqueIdentifier>{7b53c6ff-d764-4866-9612-f7dc6068dfbb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\排序">
+      <UniqueIdentifier>{9be0232c-7446-418d-b558-dcb6083392c8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="704_二分查找.cpp">
@@ -314,6 +317,15 @@
     </ClCompile>
     <ClCompile Include="968_监控二叉树.cpp">
       <Filter>源文件\贪心</Filter>
+    </ClCompile>
+    <ClCompile Include="912_排序数组.cpp">
+      <Filter>源文件\排序</Filter>
+    </ClCompile>
+    <ClCompile Include="509_斐波那契数.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="70_爬楼梯.cpp">
+      <Filter>源文件\动态规划</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
