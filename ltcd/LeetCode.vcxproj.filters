@@ -339,5 +339,8 @@
     <ClCompile Include="96_不同的二叉搜索树.cpp">
       <Filter>源文件\动态规划</Filter>
     </ClCompile>
+    <ClCompile Include="416_分割等和子集.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

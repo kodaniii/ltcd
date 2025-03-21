@@ -153,6 +153,7 @@
     <ClCompile Include="376_摆动序列.cpp" />
     <ClCompile Include="37_解数独.cpp" />
     <ClCompile Include="406_根据身高重建队列.cpp" />
+    <ClCompile Include="416_分割等和子集.cpp" />
     <ClCompile Include="435_无重叠区间.cpp" />
     <ClCompile Include="452_用最少数量的箭引爆气球.cpp" />
     <ClCompile Include="455_分发饼干.cpp" />
