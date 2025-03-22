@@ -131,6 +131,7 @@
     <ClCompile Include="101_对称二叉树.cpp" />
     <ClCompile Include="102_二叉树的层序遍历.cpp" />
     <ClCompile Include="1047_删除字符串中的所有相邻重复项.cpp" />
+    <ClCompile Include="1049_最后一块石头的重量II.cpp" />
     <ClCompile Include="104_二叉树的最大深度.cpp" />
     <ClCompile Include="106_从中序与后序遍历序列构造二叉树.cpp" />
     <ClCompile Include="108_将有序数组转换为二叉搜索树.cpp" />
@@ -190,6 +191,7 @@
     <ClCompile Include="459_重复的子字符串.cpp" />
     <ClCompile Include="46_全排列.cpp" />
     <ClCompile Include="491_非递减子序列.cpp" />
+    <ClCompile Include="494_目标和.cpp" />
     <ClCompile Include="501_二叉搜索树中的众数.cpp" />
     <ClCompile Include="509_斐波那契数.cpp" />
     <ClCompile Include="513_找树左下角的值.cpp" />

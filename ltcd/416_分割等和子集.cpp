@@ -33,3 +33,25 @@ public:
     }
 };
 
+//1D-dp
+class Solution {
+public:
+    bool canPartition(vector<int>& nums) {
+        int sum = 0;
+        for (auto& num : nums) {
+            sum += num;
+        }
+        //sum为奇数返回false，因为存在满足一部分子集为target而另一部分是奇数的情况
+        if (sum % 2) return false;
+        int target = sum / 2;
+        vector<int> dp(target + 1);
+        for (int i = 0; i < nums.size(); i++) {
+            for (int j = target; j >= nums[i]; j--) {
+                dp[j] = max(dp[j], dp[j - nums[i]] + nums[i]);
+            }
+        }
+        return dp[target] == target;
+    }
+};
+
+
