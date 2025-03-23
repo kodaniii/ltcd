@@ -159,6 +159,7 @@
     <ClCompile Include="452_用最少数量的箭引爆气球.cpp" />
     <ClCompile Include="455_分发饼干.cpp" />
     <ClCompile Include="45_跳跃游戏II.cpp" />
+    <ClCompile Include="474_一和零.cpp" />
     <ClCompile Include="47_全排列II.cpp" />
     <ClCompile Include="17_电话号码的字母组合.cpp" />
     <ClCompile Include="18_四数之和.cpp" />
