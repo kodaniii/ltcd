@@ -152,6 +152,7 @@
     <ClCompile Include="15_三数之和.cpp" />
     <ClCompile Include="343_整数拆分.cpp" />
     <ClCompile Include="376_摆动序列.cpp" />
+    <ClCompile Include="377_组合总和IV.cpp" />
     <ClCompile Include="37_解数独.cpp" />
     <ClCompile Include="406_根据身高重建队列.cpp" />
     <ClCompile Include="416_分割等和子集.cpp" />
@@ -196,6 +197,7 @@
     <ClCompile Include="501_二叉搜索树中的众数.cpp" />
     <ClCompile Include="509_斐波那契数.cpp" />
     <ClCompile Include="513_找树左下角的值.cpp" />
+    <ClCompile Include="518_零钱兑换II.cpp" />
     <ClCompile Include="51_N皇后.cpp" />
     <ClCompile Include="530_二叉搜索树的最小绝对差.cpp" />
     <ClCompile Include="538_把二叉搜索树转换为累加树.cpp" />
