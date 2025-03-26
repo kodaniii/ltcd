@@ -150,6 +150,8 @@
     <ClCompile Include="150_逆波兰表达式求值.cpp" />
     <ClCompile Include="151_反转字符串中的单词.cpp" />
     <ClCompile Include="15_三数之和.cpp" />
+    <ClCompile Include="279_完全平方数.cpp" />
+    <ClCompile Include="322_零钱兑换.cpp" />
     <ClCompile Include="343_整数拆分.cpp" />
     <ClCompile Include="376_摆动序列.cpp" />
     <ClCompile Include="377_组合总和IV.cpp" />
