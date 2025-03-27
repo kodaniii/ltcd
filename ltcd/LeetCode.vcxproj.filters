@@ -363,5 +363,11 @@
     <ClCompile Include="279_完全平方数.cpp">
       <Filter>源文件\动态规划</Filter>
     </ClCompile>
+    <ClCompile Include="139_单词拆分.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="198_打家劫舍.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

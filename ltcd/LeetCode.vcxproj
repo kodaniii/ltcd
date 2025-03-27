@@ -142,6 +142,7 @@
     <ClCompile Include="131_分割回文串.cpp" />
     <ClCompile Include="134_加油站.cpp" />
     <ClCompile Include="135_分发糖果.cpp" />
+    <ClCompile Include="139_单词拆分.cpp" />
     <ClCompile Include="142_环形链表II.cpp" />
     <ClCompile Include="144_二叉树的前序遍历.cpp" />
     <ClCompile Include="144_二叉树的前序遍历（迭代）.cpp" />
@@ -150,6 +151,7 @@
     <ClCompile Include="150_逆波兰表达式求值.cpp" />
     <ClCompile Include="151_反转字符串中的单词.cpp" />
     <ClCompile Include="15_三数之和.cpp" />
+    <ClCompile Include="198_打家劫舍.cpp" />
     <ClCompile Include="279_完全平方数.cpp" />
     <ClCompile Include="322_零钱兑换.cpp" />
     <ClCompile Include="343_整数拆分.cpp" />
