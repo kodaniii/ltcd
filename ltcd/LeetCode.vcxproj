@@ -152,8 +152,10 @@
     <ClCompile Include="151_反转字符串中的单词.cpp" />
     <ClCompile Include="15_三数之和.cpp" />
     <ClCompile Include="198_打家劫舍.cpp" />
+    <ClCompile Include="213_打家劫舍II.cpp" />
     <ClCompile Include="279_完全平方数.cpp" />
     <ClCompile Include="322_零钱兑换.cpp" />
+    <ClCompile Include="337_打家劫舍III.cpp" />
     <ClCompile Include="343_整数拆分.cpp" />
     <ClCompile Include="376_摆动序列.cpp" />
     <ClCompile Include="377_组合总和IV.cpp" />
