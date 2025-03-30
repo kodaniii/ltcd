@@ -378,5 +378,11 @@
     <ClCompile Include="121_买卖股票的最佳时机.cpp">
       <Filter>源文件\动态规划</Filter>
     </ClCompile>
+    <ClCompile Include="123_买卖股票的最佳时机III.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="188_买卖股票的最佳时机IV.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
