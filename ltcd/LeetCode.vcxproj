@@ -157,6 +157,7 @@
     <ClCompile Include="198_打家劫舍.cpp" />
     <ClCompile Include="213_打家劫舍II.cpp" />
     <ClCompile Include="279_完全平方数.cpp" />
+    <ClCompile Include="309_买卖股票的最佳时机含冷冻期.cpp" />
     <ClCompile Include="322_零钱兑换.cpp" />
     <ClCompile Include="337_打家劫舍III.cpp" />
     <ClCompile Include="343_整数拆分.cpp" />
@@ -225,6 +226,7 @@
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="707_设计链表.cpp" />
     <ClCompile Include="70_爬楼梯.cpp" />
+    <ClCompile Include="714_买卖股票的最佳时机含手续费.cpp" />
     <ClCompile Include="738_单调递增的数字.cpp" />
     <ClCompile Include="746_使用最小花费爬楼梯.cpp" />
     <ClCompile Include="763_划分字母区间.cpp" />
