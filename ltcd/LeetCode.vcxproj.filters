@@ -390,5 +390,11 @@
     <ClCompile Include="714_买卖股票的最佳时机含手续费.cpp">
       <Filter>源文件\动态规划</Filter>
     </ClCompile>
+    <ClCompile Include="300_最长递增子序列.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="674_最长连续递增序列.cpp">
+      <Filter>源文件\动态规划</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
