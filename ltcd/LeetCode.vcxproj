@@ -138,6 +138,7 @@
     <ClCompile Include="110_平衡二叉树.cpp" />
     <ClCompile Include="111_二叉树的最小深度.cpp" />
     <ClCompile Include="112_路径总和.cpp" />
+    <ClCompile Include="1143_最长公共子序列.cpp" />
     <ClCompile Include="121_买卖股票的最佳时机.cpp" />
     <ClCompile Include="122_买卖股票的最佳时机II.cpp" />
     <ClCompile Include="123_买卖股票的最佳时机III.cpp" />
@@ -229,6 +230,7 @@
     <ClCompile Include="707_设计链表.cpp" />
     <ClCompile Include="70_爬楼梯.cpp" />
     <ClCompile Include="714_买卖股票的最佳时机含手续费.cpp" />
+    <ClCompile Include="718_最长重复子数组.cpp" />
     <ClCompile Include="738_单调递增的数字.cpp" />
     <ClCompile Include="746_使用最小花费爬楼梯.cpp" />
     <ClCompile Include="763_划分字母区间.cpp" />
