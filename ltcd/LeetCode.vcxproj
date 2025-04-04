@@ -140,6 +140,7 @@
     <ClCompile Include="111_二叉树的最小深度.cpp" />
     <ClCompile Include="112_路径总和.cpp" />
     <ClCompile Include="1143_最长公共子序列.cpp" />
+    <ClCompile Include="115_不同的子序列.cpp" />
     <ClCompile Include="121_买卖股票的最佳时机.cpp" />
     <ClCompile Include="122_买卖股票的最佳时机II.cpp" />
     <ClCompile Include="123_买卖股票的最佳时机III.cpp" />
@@ -167,6 +168,7 @@
     <ClCompile Include="376_摆动序列.cpp" />
     <ClCompile Include="377_组合总和IV.cpp" />
     <ClCompile Include="37_解数独.cpp" />
+    <ClCompile Include="392_判断子序列.cpp" />
     <ClCompile Include="406_根据身高重建队列.cpp" />
     <ClCompile Include="416_分割等和子集.cpp" />
     <ClCompile Include="435_无重叠区间.cpp" />
