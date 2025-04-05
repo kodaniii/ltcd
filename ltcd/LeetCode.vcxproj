@@ -220,6 +220,7 @@
     <ClCompile Include="541_反转字符串II.cpp" />
     <ClCompile Include="55_跳跃游戏.cpp" />
     <ClCompile Include="56_合并区间.cpp" />
+    <ClCompile Include="583_两个字符串的删除操作.cpp" />
     <ClCompile Include="59_螺旋矩阵II.cpp" />
     <ClCompile Include="617_合并二叉树.cpp" />
     <ClCompile Include="62_不同路径.cpp" />
@@ -234,6 +235,7 @@
     <ClCompile Include="70_爬楼梯.cpp" />
     <ClCompile Include="714_买卖股票的最佳时机含手续费.cpp" />
     <ClCompile Include="718_最长重复子数组.cpp" />
+    <ClCompile Include="72_编辑距离.cpp" />
     <ClCompile Include="738_单调递增的数字.cpp" />
     <ClCompile Include="746_使用最小花费爬楼梯.cpp" />
     <ClCompile Include="763_划分字母区间.cpp" />
