@@ -40,6 +40,9 @@
     <Filter Include="源文件\动态规划">
       <UniqueIdentifier>{7b53c6ff-d764-4866-9612-f7dc6068dfbb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\单调栈">
+      <UniqueIdentifier>{6b623617-2b0c-4d52-bb78-4eedfeafff66}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="704_二分查找.cpp">
@@ -422,6 +425,12 @@
     </ClCompile>
     <ClCompile Include="516_最长回文子序列.cpp">
       <Filter>源文件\动态规划</Filter>
+    </ClCompile>
+    <ClCompile Include="739_每日温度.cpp">
+      <Filter>源文件\单调栈</Filter>
+    </ClCompile>
+    <ClCompile Include="496_下一个更大元素.cpp">
+      <Filter>源文件\单调栈</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

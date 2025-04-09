@@ -209,6 +209,7 @@
     <ClCompile Include="46_全排列.cpp" />
     <ClCompile Include="491_非递减子序列.cpp" />
     <ClCompile Include="494_目标和.cpp" />
+    <ClCompile Include="496_下一个更大元素.cpp" />
     <ClCompile Include="501_二叉搜索树中的众数.cpp" />
     <ClCompile Include="509_斐波那契数.cpp" />
     <ClCompile Include="513_找树左下角的值.cpp" />
@@ -239,6 +240,7 @@
     <ClCompile Include="718_最长重复子数组.cpp" />
     <ClCompile Include="72_编辑距离.cpp" />
     <ClCompile Include="738_单调递增的数字.cpp" />
+    <ClCompile Include="739_每日温度.cpp" />
     <ClCompile Include="746_使用最小花费爬楼梯.cpp" />
     <ClCompile Include="763_划分字母区间.cpp" />
     <ClCompile Include="77_组合.cpp" />
