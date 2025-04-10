@@ -171,6 +171,7 @@
     <ClCompile Include="392_判断子序列.cpp" />
     <ClCompile Include="406_根据身高重建队列.cpp" />
     <ClCompile Include="416_分割等和子集.cpp" />
+    <ClCompile Include="42_接雨水.cpp" />
     <ClCompile Include="435_无重叠区间.cpp" />
     <ClCompile Include="452_用最少数量的箭引爆气球.cpp" />
     <ClCompile Include="455_分发饼干.cpp" />
@@ -211,6 +212,7 @@
     <ClCompile Include="494_目标和.cpp" />
     <ClCompile Include="496_下一个更大元素.cpp" />
     <ClCompile Include="501_二叉搜索树中的众数.cpp" />
+    <ClCompile Include="503_下一个更大元素II.cpp" />
     <ClCompile Include="509_斐波那契数.cpp" />
     <ClCompile Include="513_找树左下角的值.cpp" />
     <ClCompile Include="516_最长回文子序列.cpp" />
