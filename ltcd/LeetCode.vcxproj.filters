@@ -438,5 +438,8 @@
     <ClCompile Include="42_接雨水.cpp">
       <Filter>源文件\单调栈</Filter>
     </ClCompile>
+    <ClCompile Include="84_柱状图中最大的矩形.cpp">
+      <Filter>源文件\单调栈</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

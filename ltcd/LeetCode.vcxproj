@@ -248,6 +248,7 @@
     <ClCompile Include="77_组合.cpp" />
     <ClCompile Include="783_二叉搜索树节点最小距离.cpp" />
     <ClCompile Include="78_子集.cpp" />
+    <ClCompile Include="84_柱状图中最大的矩形.cpp" />
     <ClCompile Include="860_柠檬水找零.cpp" />
     <ClCompile Include="90_子集II.cpp" />
     <ClCompile Include="912_排序数组.cpp" />
